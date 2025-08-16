@@ -25,7 +25,7 @@
 <hr>
 <b>KHMT 16-01: Thuật toán K-NN</b>
 <br>
-[https://github.com/hgewew/bai1](https://github.com/hgewew/Ph-n-lo-i-hoa
+https://github.com/hgewew/bai1](https://github.com/hgewew/Ph-n-lo-i-hoa
 <br>
 https://github.com/okoyesir/NhanDienLoaiHoa/tree/main
 <br>
