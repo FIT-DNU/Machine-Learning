@@ -49,6 +49,7 @@ https://github.com/manhduy12/iris
 <br>
 https://github.com/Pangorin/iris-prediction
 <br>
+https://github.com/Blackbin03/loaihoa
 [https://github.com/Macchiato285/thayCong](https://github.com/Macchiato285/IRIS)
 <br>
 https://github.com/vandat2004/Iris
