@@ -25,15 +25,19 @@
 <hr>
 <b>KHMT 16-01: Thuật toán K-NN</b>
 <br>
-https://github.com/hgewew/bai1](https://github.com/hgewew/Ph-n-lo-i-hoa
+https://github.com/BaNguyen0611/IrisApp](https://github.com/hgewew/Ph-n-lo-i-hoa
 <br>
 https://github.com/okoyesir/NhanDienLoaiHoa/tree/main
 <br>
 https://github.com/thanhtung1000/KNN_Iris.git
 <br>
+https://github.com/3-mi-3/KNN_Iris
+<br>
 https://github.com/BinhNeymar2004/D-o-n-lo-i-hoa.git
 <br>
 https://github.com/aduangseng/K-NN-Iris.git
+<br>
+https://github.com/trggiang0704/nhandienloaihoaKNN.git
 <br>
 https://github.com/VietHung04/HocMayIris.git
 <br>
@@ -45,4 +49,9 @@ https://github.com/manhduy12/iris
 <br>
 https://github.com/Pangorin/iris-prediction
 <br>
+https://github.com/Macchiato285/thayCong
+<br>
+https://github.com/vandat2004/Iris
+<br>
 https://github.com/BaNguyen0611/IrisApp
+<br>
