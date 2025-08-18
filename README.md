@@ -23,7 +23,7 @@
 
 </div>
 <hr>
-<b>KHMT 16-01: Thuật toán K-NN</b>
+<b>KHMT 16-01: Thuật toán K-NN, Iris Dataset</b>
 <br>
 https://github.com/BaNguyen0611/IrisApp](https://github.com/hgewew/Ph-n-lo-i-hoa
 <br>
