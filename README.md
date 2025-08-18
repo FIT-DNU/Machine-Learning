@@ -92,4 +92,7 @@ https://github.com/Macchiato285/spam-ham/tree/main
 https://github.com/vandat2004/naive_bayes/tree/main
 <br>
 https://github.com/BaNguyen0611/SMSSpam
-
+<br>
+https://github.com/nguyenmanhdong/NaiveBayes.git
+<br>
+https://github.com/Pangorin/sms-spam-app/
