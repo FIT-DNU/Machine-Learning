@@ -56,4 +56,7 @@ https://github.com/Macchiato285/IRIS
 https://github.com/vandat2004/Iris
 <br>
 https://github.com/BaNguyen0611/IrisApp
+<hr>
+<b>KHMT 16-01: Thuật toán Navie Bayes, Spam SMS Dataset</b>
 <br>
+https://github.com/BaNguyen0611/SMSSpam
