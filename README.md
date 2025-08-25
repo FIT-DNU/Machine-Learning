@@ -133,7 +133,6 @@ https://github.com/manhduy12/DECISION_TREE
 <br>
 https://github.com/Pangorin/DecisionTreeProject/
 <br>
-<br>
 https://github.com/vandat2004/DecisionTree/tree/main
 <br>
 https://github.com/QuangDoKhac/Phan_loai_nam_ID3#
