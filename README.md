@@ -100,7 +100,7 @@ https://github.com/nguyenmanhdong/NaiveBayes.git
 https://github.com/Pangorin/sms-spam-app/
 <br>
 https://github.com/QuangDoKhac/NaiveBayes/tree/main
-<br>
+<hr>
 <b>KHMT 16-01: Thuật toán Decision Tree, Mushrooms Dataset</b>
 <br>
 https://github.com/mi-T-T/EdiableMushroom
