@@ -104,5 +104,42 @@ https://github.com/QuangDoKhac/NaiveBayes/tree/main
 <b>KHMT 16-01: Thuật toán Decision Tree, Mushrooms Dataset</b>
 <br>
 https://github.com/mi-T-T/EdiableMushroom
+<br>
+https://github.com/TrieuQuocAnh/PhanLoaiNam
+<br>
+https://github.com/NguyenTrugThanh/NhanDangNamDoc/tree/main
+<br>
+https://github.com/thanhtung1000/ph-n-lo-i-n-m.git
+<br>
+https://github.com/mi-T-T/EdiableMushroom
+<br>
+https://github.com/hoabinh04/D-o-n-N-m-n-c-Hay-Kh-ng.git
+<br>
+https://github.com/cuongnam/Decision-Tree---Mushroom-Recognize.git
+<br>
+https://github.com/trggiang0704/Mushroom-Classifier.git
+<br>
+https://github.com/VietHung04/MushroomApp.git
+<br>
+https://github.com/DinhTanPhat99/ThucHanhID3.git
+<br>
+https://github.com/VTV-24/ML-Mushroom.git
+<br>
+https://github.com/nguyenmanhdong/nam.git
+<br>
+https://github.com/manhduy12/DECISION_TREE
+<br>
+https://github.com/manhduy12/DECISION_TREE
+<br>
+https://github.com/Pangorin/DecisionTreeProject/
+<br>
+<br>
+https://github.com/vandat2004/DecisionTree/tree/main
+<br>
+https://github.com/QuangDoKhac/Phan_loai_nam_ID3#
+<br>
+https://github.com/BaNguyen0611/mushroom_web_appp.git
+
+
 
 
