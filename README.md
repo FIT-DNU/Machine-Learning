@@ -129,8 +129,6 @@ https://github.com/nguyenmanhdong/nam.git
 <br>
 https://github.com/manhduy12/DECISION_TREE
 <br>
-https://github.com/manhduy12/DECISION_TREE
-<br>
 https://github.com/Pangorin/DecisionTreeProject/
 <br>
 https://github.com/vandat2004/DecisionTree/tree/main
