@@ -137,6 +137,36 @@ https://github.com/QuangDoKhac/Phan_loai_nam_ID3#
 <br>
 https://github.com/BaNguyen0611/mushroom_web_appp.git
 
-
+<hr>
+<b>KHMT 16-01: Thuật toán Random Forest, Breast Cancer Dataset</b>
+<br>
+https://github.com/hoabinh04/Random-Forest-UTV
+<br>
+https://github.com/TrieuQuocAnh/DuDoanKhoiU
+<br>
+https://github.com/VTV-24/Ung-thu-vu.git
+<br>
+https://github.com/cuongnam/RandomForest.git
+<br>
+https://github.com/DinhTanPhat99/RandomForest.git
+<br>
+https://github.com/BaNguyen0611/duDoanUngThu---randomForestdu1
+<br>
+https://github.com/trggiang0704/breast-cancer-classification.git
+<br>
+https://github.com/NguyenTrugThanh/Random-Forest
+<br>
+https://github.com/vandat2004/Random-Forest/tree/main
+<br>
+https://github.com/mi-T-T/DuDoanUngThu
+<br>
+https://github.com/VietHung04/RandomForest.git
+<br>
+https://github.com/Pangorin/breast-cancer-prediction
+<br>
+https://github.com/manhduy12/random-forest
+<br>
+https://github.com/Blackbin03/ung-thu-vu/tree/main
+<br>
 
 
