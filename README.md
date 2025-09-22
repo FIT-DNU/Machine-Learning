@@ -167,6 +167,45 @@ https://github.com/Pangorin/breast-cancer-prediction
 https://github.com/manhduy12/random-forest
 <br>
 https://github.com/Blackbin03/ung-thu-vu/tree/main
+
+<hr>
+<b>KHMT 16-01: Thuật toán XGBoost, Give Me Some Credit Dataset</b>
+<br>
+https://github.com/DinhTanPhat99/XGBoost.git
+<br>
+https://github.com/mi-T-T/DuDoanNoXau
+<br>
+https://github.com/BaNguyen0611/R-i-eo-t-n-d-ng
+<br>
+https://github.com/QuangDoKhac/CreditScoring
+<br>
+https://github.com/VTV-24/Credit.git
+<br>
+https://github.com/cuongnam/credit-prediction.git
+<br>
+https://github.com/TrieuQuocAnh/CreditPrediction
+<br>
+https://github.com/hoabinh04/Du-doan-rui-ro-tin-dung.git
+<br>
+https://github.com/vandat2004/XGBOOST/tree/main
+<br>
+https://github.com/VietHung04/credit-prediction.git
+<br>
+https://github.com/trggiang0704/XGboost-credit-prediction.git
+<br>
+https://github.com/Pangorin/bankrupt-prediction
+<br>
+https://github.com/NguyenTrugThanh/XGBoost/tree/main
+<br>
+https://github.com/manhduy12/xgboost
+<br>
+https://github.com/thanhtung1000/credit-recognition.git
+<br>
+https://github.com/thanh11223/Tranminhthanh111/tree/main
+<br>
+https://github.com/nguyenmanhdong/credit-recognition.git
+<br>
+https://github.com/Macchiato285/XGBoost
 <br>
 
 
