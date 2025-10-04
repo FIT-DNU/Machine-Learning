@@ -208,4 +208,83 @@ https://github.com/nguyenmanhdong/credit-recognition.git
 https://github.com/Macchiato285/XGBoost
 <br>
 
+<h2 align="center">
+    <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
+    🎓 Faculty of Information Technology (DaiNam University)
+    </a>
+</h2>
+<h2 align="center">
+    <br>
+   MACHINE LEARNING
+    <br>
+    <br>
+    <br>
+</h2>
+<div align="center">
+    <p align="center">
+        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="docs/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
+        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+    </p>
 
+[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
+
+</div>
+<hr>
+<b>BÀI TẬP LỚN HỌC MÁY CNTT17-12/b>
+<br>
+https://github.com/TuanAnh5725/PHAN-LOAI-NAM.git
+<img width="1380" height="32" alt="image" src="https://github.com/user-attachments/assets/b6ddce87-d686-43da-8866-17e2cbef6bff" />
+
+<br>
+[https://github.com/okoyesir/NhanDienLoaiHoa/tree/main](https://github.com/phu16112005/nhap-mon-hoc-may
+)<img width="1380" height="32" alt="image" src="https://github.com/user-attachments/assets/bad2743a-a5ca-4bdd-a36a-0b9d0ea99d86" />
+
+<br>
+[https://github.com/phamtuananh05/Phat-hien-tin-tuc-gia-mao
+<img width="1380" height="32" alt="image" src="https://github.com/user-attachments/assets/bb3a2b76-c782-4f6b-9a74-37efd6ca9909" />](https://github.com/Baonguyen64/PH-N-LO-I-HOA-B-NG-H-C-M-Y-.git
+)<img width="1380" height="32" alt="image" src="https://github.com/user-attachments/assets/33d07525-e41f-4762-83b5-cde79df59d16" />
+
+
+<br>
+https://github.com/3-mi-3/KNN_Irishttps://github.com/Cong25102/Phan_Loai_Nam
+<img width="1380" height="32" alt="image" src="https://github.com/user-attachments/assets/dba615c6-73ff-471e-a7b6-9bb5b6d43be8" />
+
+<br>
+https://github.com/chinhliki/NhanDienBienBaoGiaoThong.git
+<img width="1380" height="32" alt="image" src="https://github.com/user-attachments/assets/38ea8d03-d58c-411f-8349-0943a8d49515" />
+https://github.com/tolahaquangdu/NhanDienBienBaoGiaoThong.git
+<img width="1380" height="32" alt="image" src="https://github.com/user-attachments/assets/2d37d81b-ba1e-48a9-9a8c-8509afb49b70" />
+
+https://github.com/LeThienDung/Phan-Loai-Bai-Bao_LETHIENDUNG.git
+https://github.com/hungdung3/BTL-NMHM.git
+
+https://github.com/GiangDung123/Phan-loai-chu-de-bai-bao.git
+
+https://github.com/oppasaranghe/-t-i-ph-n-lo-i-hoa.git
+https://github.com/DarlingVn/xray-chest-phneumonia.git
+
+github.com/juowle289/phat-hien-tin-tuc-gia-mao.git
+
+github.com/juowle289/phat-hien-tin-tuc-gia-mao.git
+https://github.com/Vuhai2005/dhdn.git
+github.com/juowle289/phat-hien-tin-tuc-gia-mao.git
+https://github.com/xuanhiep2910/Phan-loai-tin-nhan-rac
+
+https://github.com/CongHiep2005/BTLNhapMonHocMay.git
+https://github.com/CongHiep2005/BTLNhapMonHocMay.git
+https://github.com/hidageu/BTL
+https://github.com/PhamTheHoan10042005/BTLNhapMonHocMay.git
+https://github.com/vuhhoangg/Phathientintucgiamao
+https://github.com/huy04112005/Nhap-mon-hoc-may.git
+https://github.com/ndhhhh/Nhap_mon_hoc_-may
+https://github.com/duongminhqua/Nh-p-m-n-h-c-m-y
+https://github.com/maalgaw/NhanDienViemPhoi.git
+https://github.com/MANHNGUOIRUNG/baitaplon.git
+https://github.com/guyenducmanh/nhap-mon-hoc-mayyy
+https://github.com/vinhhuu1510/Phan_Loai_Hoa_Bang_Hoc_May.git
+https://github.com/Rosemary0301/BTL-HocMay.git
+https://github.com/thong1234567889/bai-tap-lon
+</br>
