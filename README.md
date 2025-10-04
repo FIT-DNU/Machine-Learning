@@ -236,57 +236,61 @@ https://github.com/Macchiato285/XGBoost
 <h1>BÀI TẬP LỚN HỌC MÁY CNTT17-12 <h1>
 <br>
 https://github.com/TuanAnh5725/PHAN-LOAI-NAM.git
+<br>
 https://github.com/okoyesir/NhanDienLoaiHoa/tree
+<br>
 https://github.com/phamtuananh05/Phat-hien-tin-tuc-gia-mao
-https://github.com/3-mi-3/KNN_Iris
-https://github.com/Cong25102/Phan_Loai_Nam
-https://github.com/chinhliki/NhanDienBienBaoGiaoThong.git
-https://github.com/tolahaquangdu/NhanDienBienBaoGiaoThong.git
-https://github.com/LeThienDung/Phan-Loai-Bai-Bao_LETHIENDUNG.git
-https://github.com/hungdung3/BTL-NMHM.git
-https://github.com/GiangDung123/Phan-loai-chu-de-bai-bao.git
-https://github.com/oppasaranghe/-t-i-ph-n-lo-i-hoa.git
-https://github.com/DarlingVn/xray-chest-phneumonia.git
-https://github.com/Vuhai2005/dhdn.git
-https://github.com/xuanhiep2910/Phan-loai-tin-nhan-rac
-https://github.com/CongHiep2005/BTLNhapMonHocMay.git
-https://github.com/CongHiep2005/BTLNhapMonHocMay.git
-https://github.com/hidageu/BTL
-https://github.com/PhamTheHoan10042005/BTLNhapMonHocMay.git
-https://github.com/vuhhoangg/Phathientintucgiamao
-https://github.com/huy04112005/Nhap-mon-hoc-may.git
-https://github.com/ndhhhh/Nhap_mon_hoc_-may
-https://github.com/duongminhqua/Nh-p-m-n-h-c-m-y
-https://github.com/maalgaw/NhanDienViemPhoi.git
-https://github.com/MANHNGUOIRUNG/baitaplon.git
-https://github.com/guyenducmanh/nhap-mon-hoc-mayyy
-https://github.com/vinhhuu1510/Phan_Loai_Hoa_Bang_Hoc_May.git
-https://github.com/Rosemary0301/BTL-HocMay.git
-https://github.com/thong1234567889/bai-tap-lon
+    <br>
+
+https://github.com/3-mi-3/KNN_Iris <br>
+https://github.com/Cong25102/Phan_Loai_Nam <br>
+https://github.com/chinhliki/NhanDienBienBaoGiaoThong.git <br>
+https://github.com/tolahaquangdu/NhanDienBienBaoGiaoThong.git <br>
+https://github.com/LeThienDung/Phan-Loai-Bai-Bao_LETHIENDUNG.git <br>
+https://github.com/hungdung3/BTL-NMHM.git <br>
+https://github.com/GiangDung123/Phan-loai-chu-de-bai-bao.git <br>
+https://github.com/oppasaranghe/-t-i-ph-n-lo-i-hoa.git <br>
+https://github.com/DarlingVn/xray-chest-phneumonia.git <br>
+https://github.com/Vuhai2005/dhdn.git <br>
+https://github.com/xuanhiep2910/Phan-loai-tin-nhan-rac <br>
+https://github.com/CongHiep2005/BTLNhapMonHocMay.git <br>
+https://github.com/CongHiep2005/BTLNhapMonHocMay.git <br>
+https://github.com/hidageu/BTL <br>
+https://github.com/PhamTheHoan10042005/BTLNhapMonHocMay.git <br>
+https://github.com/vuhhoangg/Phathientintucgiamao <br>
+https://github.com/huy04112005/Nhap-mon-hoc-may.git <br>
+https://github.com/ndhhhh/Nhap_mon_hoc_-may <br>
+https://github.com/duongminhqua/Nh-p-m-n-h-c-m-y <br>
+https://github.com/maalgaw/NhanDienViemPhoi.git <br>
+https://github.com/MANHNGUOIRUNG/baitaplon.git <br>
+https://github.com/guyenducmanh/nhap-mon-hoc-mayyy <br>
+https://github.com/vinhhuu1510/Phan_Loai_Hoa_Bang_Hoc_May.git <br>
+https://github.com/Rosemary0301/BTL-HocMay.git <br>
+https://github.com/thong1234567889/bai-tap-lon <br>
 </br>
 
 <h1>BÀI TẬP LỚN HỌC MÁY CNTT17-11 </h1>
 <br>
-https://github.com/QuangTungMasterD/nhap-mon-hoc-may.git
-https://github.com/GaminTheBasket/X_RAY
-https://github.com/DangQuocKhanh1714/Nhap_mon_hoc_may_Nhom3
-https://github.com/haohaicotthehienolangson/BTLNMHM.git
-https://github.com/Dang-Van-Thanh/ML_SpamText_Vr4.git
-https://github.com/Hung17082005/nhom7_phanloaihoa.git
-https://github.com/nguyenvietviet-cntt/phanloaicamxucsinhvien.git
-https://github.com/nhuongg/Phat-hien-giao-dich-the-tin-dung-gian-lan.git
-https://github.com/pth12052/nhom10
-https://github.com/congkhanh0503/Phan_loai_tin_gia_mao.git
-https://github.com/nguyentrandat17/Toiuucungung.git
-https://github.com/khanh2005vf/Phan-Loai-Bien-Bao-Giao-Thong.git
-https://github.com/NguyenVuong21/BTL_NMHM.git
-https://github.com/Thuong1310/btl-h-c-m-y
-https://github.com/ngovanhuy1/BTL-NMHM.git
-https://github.com/hihihaha99/HocMay.git
-https://github.com/chien1211/Nhom12/tree/main
-https://github.com/minhThongdzai3011/Nhom4.git
-https://github.com/3132205/phathiengiaodichthegianlan.git
-https://github.com/phuccdayynee/BTL-Nh-p-m-n-h-c-m-y-.git
-https://github.com/hung1771020335/BTL-NMHM-Nh-m5.git
+https://github.com/QuangTungMasterD/nhap-mon-hoc-may.git <br>
+https://github.com/GaminTheBasket/X_RAY <br>
+https://github.com/DangQuocKhanh1714/Nhap_mon_hoc_may_Nhom3 <br>
+https://github.com/haohaicotthehienolangson/BTLNMHM.git <br>
+https://github.com/Dang-Van-Thanh/ML_SpamText_Vr4.git <br>
+https://github.com/Hung17082005/nhom7_phanloaihoa.git <br>
+https://github.com/nguyenvietviet-cntt/phanloaicamxucsinhvien.git <br>
+https://github.com/nhuongg/Phat-hien-giao-dich-the-tin-dung-gian-lan.git <br>
+https://github.com/pth12052/nhom10 <br>
+https://github.com/congkhanh0503/Phan_loai_tin_gia_mao.git <br>
+https://github.com/nguyentrandat17/Toiuucungung.git <br>
+https://github.com/khanh2005vf/Phan-Loai-Bien-Bao-Giao-Thong.git <br>
+https://github.com/NguyenVuong21/BTL_NMHM.git <br>
+https://github.com/Thuong1310/btl-h-c-m-y <br>
+https://github.com/ngovanhuy1/BTL-NMHM.git <br>
+https://github.com/hihihaha99/HocMay.git <br>
+https://github.com/chien1211/Nhom12/tree/main <br>
+https://github.com/minhThongdzai3011/Nhom4.git <br>
+https://github.com/3132205/phathiengiaodichthegianlan.git <br>
+https://github.com/phuccdayynee/BTL-Nh-p-m-n-h-c-m-y-.git <br>
+https://github.com/hung1771020335/BTL-NMHM-Nh-m5.git <br>
 
 </br>
