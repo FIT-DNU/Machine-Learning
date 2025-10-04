@@ -268,7 +268,7 @@ https://github.com/vinhhuu1510/Phan_Loai_Hoa_Bang_Hoc_May.git <br>
 https://github.com/Rosemary0301/BTL-HocMay.git <br>
 https://github.com/thong1234567889/bai-tap-lon <br>
 </br>
-
+<hr>
 <h1>BÀI TẬP LỚN HỌC MÁY CNTT17-11 </h1>
 <br>
 https://github.com/QuangTungMasterD/nhap-mon-hoc-may.git <br>
