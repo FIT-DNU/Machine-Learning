@@ -236,9 +236,10 @@ https://github.com/Macchiato285/XGBoost
 <h1>BÀI TẬP LỚN HỌC MÁY CNTT17-12 <h1>
 <br>
 https://github.com/TuanAnh5725/PHAN-LOAI-NAM.git
-https://github.com/okoyesir/NhanDienLoaiHoa/tree/main](https://github.com/phu16112005/nhap-mon-hoc-may
+https://github.com/okoyesir/NhanDienLoaiHoa/tree
 https://github.com/phamtuananh05/Phat-hien-tin-tuc-gia-mao
-https://github.com/3-mi-3/KNN_Irishttps://github.com/Cong25102/Phan_Loai_Nam
+https://github.com/3-mi-3/KNN_Iris
+https://github.com/Cong25102/Phan_Loai_Nam
 https://github.com/chinhliki/NhanDienBienBaoGiaoThong.git
 https://github.com/tolahaquangdu/NhanDienBienBaoGiaoThong.git
 https://github.com/LeThienDung/Phan-Loai-Bai-Bao_LETHIENDUNG.git
@@ -265,3 +266,27 @@ https://github.com/thong1234567889/bai-tap-lon
 </br>
 
 <h1>BÀI TẬP LỚN HỌC MÁY CNTT17-11 </h1>
+<br>
+https://github.com/QuangTungMasterD/nhap-mon-hoc-may.git
+https://github.com/GaminTheBasket/X_RAY
+https://github.com/DangQuocKhanh1714/Nhap_mon_hoc_may_Nhom3
+https://github.com/haohaicotthehienolangson/BTLNMHM.git
+https://github.com/Dang-Van-Thanh/ML_SpamText_Vr4.git
+https://github.com/Hung17082005/nhom7_phanloaihoa.git
+https://github.com/nguyenvietviet-cntt/phanloaicamxucsinhvien.git
+https://github.com/nhuongg/Phat-hien-giao-dich-the-tin-dung-gian-lan.git
+https://github.com/pth12052/nhom10
+https://github.com/congkhanh0503/Phan_loai_tin_gia_mao.git
+https://github.com/nguyentrandat17/Toiuucungung.git
+https://github.com/khanh2005vf/Phan-Loai-Bien-Bao-Giao-Thong.git
+https://github.com/NguyenVuong21/BTL_NMHM.git
+https://github.com/Thuong1310/btl-h-c-m-y
+https://github.com/ngovanhuy1/BTL-NMHM.git
+https://github.com/hihihaha99/HocMay.git
+https://github.com/chien1211/Nhom12/tree/main
+https://github.com/minhThongdzai3011/Nhom4.git
+https://github.com/3132205/phathiengiaodichthegianlan.git
+https://github.com/phuccdayynee/BTL-Nh-p-m-n-h-c-m-y-.git
+https://github.com/hung1771020335/BTL-NMHM-Nh-m5.git
+
+</br>
