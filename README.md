@@ -208,31 +208,8 @@ https://github.com/nguyenmanhdong/credit-recognition.git
 https://github.com/Macchiato285/XGBoost
 <br>
 
-<h2 align="center">
-    <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
-    🎓 Faculty of Information Technology (DaiNam University)
-    </a>
-</h2>
-<h2 align="center">
-    <br>
-   MACHINE LEARNING
-    <br>
-    <br>
-    <br>
-</h2>
-<div align="center">
-    <p align="center">
-        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="docs/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
-        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
-    </p>
 
-[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
-[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
-[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
-</div>
-<hr>
 <h1>BÀI TẬP LỚN HỌC MÁY CNTT17-12 <h1>
 <br>
 https://github.com/TuanAnh5725/PHAN-LOAI-NAM.git
@@ -241,7 +218,6 @@ https://github.com/okoyesir/NhanDienLoaiHoa/tree
 <br>
 https://github.com/phamtuananh05/Phat-hien-tin-tuc-gia-mao
     <br>
-
 https://github.com/3-mi-3/KNN_Iris <br>
 https://github.com/Cong25102/Phan_Loai_Nam <br>
 https://github.com/chinhliki/NhanDienBienBaoGiaoThong.git <br>
@@ -292,5 +268,4 @@ https://github.com/minhThongdzai3011/Nhom4.git <br>
 https://github.com/3132205/phathiengiaodichthegianlan.git <br>
 https://github.com/phuccdayynee/BTL-Nh-p-m-n-h-c-m-y-.git <br>
 https://github.com/hung1771020335/BTL-NMHM-Nh-m5.git <br>
-
 </br>
