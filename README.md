@@ -208,8 +208,6 @@ https://github.com/nguyenmanhdong/credit-recognition.git
 https://github.com/Macchiato285/XGBoost
 <br>
 
-
-
 <h1>BÀI TẬP LỚN HỌC MÁY CNTT17-12 <h1>
 <br>
 https://github.com/TuanAnh5725/PHAN-LOAI-NAM.git
@@ -245,7 +243,7 @@ https://github.com/Rosemary0301/BTL-HocMay.git <br>
 https://github.com/thong1234567889/bai-tap-lon <br>
 </br>
 <hr>
-<h1>BÀI TẬP LỚN HỌC MÁY CNTT17-11 </h1>
+<b>BÀI TẬP LỚN HỌC MÁY CNTT17-11 </a>
 <br>
 https://github.com/QuangTungMasterD/nhap-mon-hoc-may.git <br>
 https://github.com/GaminTheBasket/X_RAY <br>
